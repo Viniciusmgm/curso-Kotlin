@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">pode dirigir</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_resultado">Resultado</string>
+</resources>

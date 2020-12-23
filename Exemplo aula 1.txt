@@ -1,0 +1,11 @@
+//Declaração de variaveis, valores q podem mudar 
+var idade = 16
+println(idade)
+//Declaração de constante, um valor que não muda
+val nome = "Vinicius Miranda"
+//Soma
+var soma = idade + 5
+idade = idade + 10
+nome = nome + "ABC"
+println(nome)
+println("idade = $idade")
