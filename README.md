@@ -1,2 +1,2 @@
 # Curso-de-Kotlin
- Repositorio com os exercícioos e projetos do Curso de Kotlin
+Exercícios e Projetos realizados no Curso de Kotlin
